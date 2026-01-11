@@ -1,6 +1,6 @@
 # Project--Ascend
 Project Ascend 🚀
-[text](https://drive.google.com/drive/folders/1PrEpmYnfB8b5FM7AUr50vpomf7sc0F65?usp=drive_link)
+https://drive.google.com/drive/folders/1PrEpmYnfB8b5FM7AUr50vpomf7sc0F65?usp=sharing
 Project Ascend is an AI-powered personalized learning and productivity ecosystem. It combines an Agentic RAG (Retrieval-Augmented Generation) tutor, a dynamic task planner, and a vision-based integrity monitor to help students stay on track with their educational "quests".
 +4
 
